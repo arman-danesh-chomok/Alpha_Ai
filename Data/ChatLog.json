@@ -1,0 +1,82 @@
+[
+    {
+        "role": "user",
+        "content": "save this"
+    },
+    {
+        "role": "assistant",
+        "content": "I've saved your exam routine:\n\n* CSE 207 - 19 Jun 2025 (Thursday), 12:30 PM to 2:30 PM, Room 2708\nCSE 209 - 23 Jun 2025 (Monday), 12:30 PM to 2:30 PM, Room 2708\nCSE 215 - 25 Jun 2025 (Wednesday), 12:30 PM to 2:30 PM, Room 2708\nMAT 231 - 29 Jun 2025 (Sunday), 12:30 PM to 2:30 PM, Room 2708\nCSE 231 - 01 Jul 2025 (Tuesday), 12:30 PM to 2:30 PM, Room 2708"
+    },
+    {
+        "role": "user",
+        "content": "What is the date of my fasting exam??"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but I didn't find any mention of a \"fasting exam\" in our conversation. Could you please provide more context or clarify what you mean by \"fasting exam\"? I'll do my best to assist you."
+    },
+    {
+        "role": "user",
+        "content": "What is the date of my second exam??"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the saved exam routine, your second exam is CSE 209, which is scheduled for Monday, June 23, 2025."
+    },
+    {
+        "role": "user",
+        "content": "(query)."
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you didn't provide any information. Please feel free to share something, and I'll be happy to help!"
+    },
+    {
+        "role": "user",
+        "content": "(query)."
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you didn't provide any question or query. Please feel free to share something, and I'll be happy to help!"
+    },
+    {
+        "role": "user",
+        "content": "What is the time right now??"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the real-time information, the current time is 16:46:33."
+    },
+    {
+        "role": "user",
+        "content": "(query)."
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you didn't provide any question or query. Please feel free to share something, and I'll be happy to help!"
+    },
+    {
+        "role": "user",
+        "content": "(query)."
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you didn't provide any question or query. Please feel free to share something, and I'll be happy to help!"
+    },
+    {
+        "role": "user",
+        "content": "Who is tony stark??"
+    },
+    {
+        "role": "assistant",
+        "content": "Tony Stark is a fictional character, also known as Iron Man, a superhero appearing in American comic books published by Marvel Comics."
+    },
+    {
+        "role": "user",
+        "content": "(query)."
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you didn't provide any question or query. Please feel free to share something, and I'll be happy to help!"
+    }
+]
